@@ -25,7 +25,7 @@ const evan = {
         alternance: "Septembre 2026 - Développement Full-Stack"
     },
     passion: ["Créer des jeux vidéo", "Musique", "Escalade 🧗"],
-    portfolio: "https://evanmastrantuono.com"
+    portfolio: "https://evan-mastrantuono.netlify.app"
 };
 ```
 
