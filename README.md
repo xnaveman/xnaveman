@@ -77,7 +77,7 @@ Un jeu développé lors d'une jam qui m'a permis d'acquérir les bases du dével
 ### Portfolio Personnel
 **2025** | Astro, React, Tailwind  
 Mon dernier portfolio en date. Un défi personnel de design et de développement avec des technologies modernes.  
-[Découvrir mon portfolio](https://evanmastrantuono.com)
+[Découvrir mon portfolio](https://evan-mastrantuono.netlify.app)
 
 ### Champignons Sauvages - Stage
 **2025** | Développement Web  
